@@ -8,7 +8,7 @@ and
 https://github.com/lindawangg/COVID-Net
 
     Author: Sergio Luis Beleño Díaz
-    Date: 2020-03-02
+    Date: 2020-04-02
 
 The classes are:
 
