@@ -30,3 +30,9 @@ Size:
     
 
 <img src="índice.png" />
+
+
+# How to implement it
+
+You can find an example of implementation in the following link: 
+https://github.com/Serbeld/Dataset-4C/blob/master/Data_4C.ipynb
