@@ -37,7 +37,7 @@ Size:
 You can find an example of implementation in the following link: 
 https://github.com/Serbeld/Dataset-4C/blob/master/Data_4C.ipynb
 
-# How to download
+# How to download it
 
 You can download it in the following link: 
 https://drive.google.com/file/d/1DS_LDY8ccx24jom33b9huBQVTO4Bq3JD/view?usp=sharing
