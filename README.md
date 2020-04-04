@@ -1,6 +1,6 @@
 # Dataset 4C
 
-The Dataset4C.hdf5 file consists in 396 images in RGB scale, divided in 4 classes. There are 277 training images, 59 validation images and 60 test images. (70% for training, 15% for validation and 15% for testing)
+The Dataset4C.hdf5 file consists in 396 images in RGB scale (Information is only on one channel to avoid overtraining), divided in 4 classes. There are 277 training images, 59 validation images and 60 test images. (70% for training, 15% for validation and 15% for testing)
 
 The images are getting from
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
@@ -8,7 +8,7 @@ and
 https://github.com/ieee8023/covid-chestxray-dataset
 
     Author: Sergio Luis Beleño Díaz
-    Date: 2020-04-02
+    Date: 2020-04-04
 
 The classes are:
 
