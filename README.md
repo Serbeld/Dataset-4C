@@ -29,7 +29,7 @@ Size:
     (512,512,3)
     
 
-<img src="índice.png" />
+<img src="índice_1.png" />
 
 
 # How to implement it
