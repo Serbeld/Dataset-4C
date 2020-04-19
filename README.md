@@ -50,5 +50,8 @@ https://github.com/Serbeld/Dataset-4C/blob/master/Data_4C.ipynb
 
 # How to download it
 
-You can download it in the following link: 
+You can download it (Information only on one channel) in the following link: 
 https://drive.google.com/file/d/1yLD913J3SE7drzAvnwwcv2wKAMZXIH_L/view?usp=sharing
+
+You can download it (RGB Full) in the following link: 
+https://drive.google.com/file/d/1uGiIsHTz2Oj-ytkQqOhZ4kFSTFqVgaCX/view?usp=sharing
