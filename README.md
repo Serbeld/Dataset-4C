@@ -39,6 +39,9 @@ Size:
 
 <img src="índice_1.png" />
 
+With the Dataset4C_RGB.hdf5 file you can see all channels
+
+<img src="índice.png" />
 
 # How to implement it
 
